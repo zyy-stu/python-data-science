@@ -1,0 +1,6 @@
+sale_id,order_id,user_id,product_id,date,quantity,unit_price_cents
+S1,O1,U1,P1,2026-01-03,2,12000
+S2,O2,U2,P2,2026-01-15,1,8000
+S2,O2,U2,P2,2026-01-15,1,8000
+S3,O3,U1,P2,2026-02-05,,8000
+S4,O4,U3,P1,2026-02-10,3,12000

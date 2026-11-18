@@ -1,0 +1,19 @@
+{
+  "numpy/examples/01-array-basics/main.py": "[11, 12, 13]\n(2,) (2, 2) (1, 2, 2)\n2 4 int32",
+  "numpy/examples/02-array-creation/main.py": "[2, 4]\n[[0, 0]]\n[1, 1]\n[7, 7]\n[0, 2, 4]\n[0.0, 0.5, 1.0]\n[[1, 0], [0, 1]]",
+  "numpy/examples/03-indexing/main.py": "5 5\n[1, 2, 3] [[1, 2], [4, 5]]\n[0, 2, 4]",
+  "numpy/examples/04-array-operations/main.py": "[[3, 6], [9, 12]] [[1, 2], [3, 4]]\n[[2, 8], [18, 32]] [[2.0, 2.0], [2.0, 2.0]]\n[8, 12] [3.0, 7.0]\n2 8",
+  "numpy/examples/05-reshape/main.py": "[[0, 1], [2, 3], [4, 5]]\n[0, 1, 2, 3, 4, 5] [0, 1, 2, 3, 4, 5]\n[[0, 3], [1, 4], [2, 5]]\nFalse True",
+  "numpy/examples/06-broadcasting/main.py": "[[11, 22], [31, 42]]\n[[11, 21], [32, 42]]",
+  "numpy/examples/07-random/main.py": "[1, 5, 4, 3]\n[0.859, 0.697]\n[-1.951, -1.302, 0.128]\n[17.861, 11.281]",
+  "pandas/examples/02-dataframe/main.py": "(4, 2) ['order_id', 'user_id']\n[{'user_id': 'U1', 'region': '华东'}, {'user_id': 'U2', 'region': '华北'}, {'user_id': 'U3', 'region': '华东'}]\nSeries DataFrame\n['S1', 'S2']\n(5, 7) float64\n4\n[True, False, False]",
+  "pandas/examples/01-series/main.py": "12000 ['P1', 'P2']\n[24000, 16000]",
+  "pandas/examples/03-selection/main.py": "['华东', '华北']\n['华东', '华北']\n华东 华东",
+  "pandas/examples/04-filtering/main.py": "['S1', 'S4']",
+  "pandas/examples/05-cleaning/main.py": "1\n4\n[2, 1, 1, 0, 3]\n['S2']\n4",
+  "pandas/examples/06-groupby/main.py": "{'P1': 5, 'P2': 1}",
+  "pandas/examples/07-merge/main.py": "[{'order_id': 'O1', 'region': '华东'}, {'order_id': 'O2', 'region': '华北'}, {'order_id': 'O3', 'region': '华东'}, {'order_id': 'O4', 'region': '华东'}]",
+  "pandas/examples/08-csv/main.py": "['user_id', 'region'] ['U1', 'U2', 'U3']",
+  "numpy/exercises/solutions/main.py": "20 道练习校验通过",
+  "pandas/exercises/solutions/main.py": "20 道练习校验通过"
+}
